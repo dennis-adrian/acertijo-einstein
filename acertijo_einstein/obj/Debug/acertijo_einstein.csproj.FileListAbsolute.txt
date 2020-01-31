@@ -1,0 +1,10 @@
+C:\Users\denni\OneDrive\BootCamp\proyecto\acertijo_einstein\acertijo_einstein\bin\Debug\acertijo_einstein.exe.config
+C:\Users\denni\OneDrive\BootCamp\proyecto\acertijo_einstein\acertijo_einstein\bin\Debug\acertijo_einstein.exe
+C:\Users\denni\OneDrive\BootCamp\proyecto\acertijo_einstein\acertijo_einstein\bin\Debug\acertijo_einstein.pdb
+C:\Users\denni\OneDrive\BootCamp\proyecto\acertijo_einstein\acertijo_einstein\obj\Debug\acertijo_einstein.csprojAssemblyReference.cache
+C:\Users\denni\OneDrive\BootCamp\proyecto\acertijo_einstein\acertijo_einstein\obj\Debug\acertijo_einstein.Form1.resources
+C:\Users\denni\OneDrive\BootCamp\proyecto\acertijo_einstein\acertijo_einstein\obj\Debug\acertijo_einstein.Properties.Resources.resources
+C:\Users\denni\OneDrive\BootCamp\proyecto\acertijo_einstein\acertijo_einstein\obj\Debug\acertijo_einstein.csproj.GenerateResource.cache
+C:\Users\denni\OneDrive\BootCamp\proyecto\acertijo_einstein\acertijo_einstein\obj\Debug\acertijo_einstein.exe
+C:\Users\denni\OneDrive\BootCamp\proyecto\acertijo_einstein\acertijo_einstein\obj\Debug\acertijo_einstein.pdb
+C:\Users\denni\OneDrive\BootCamp\proyecto\acertijo_einstein\acertijo_einstein\obj\Debug\acertijo_einstein.rmdr1.resources
